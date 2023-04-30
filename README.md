@@ -1,4 +1,6 @@
 ### Aloha 👋
+I use the name Mr.G often.
+I'm a full stack developer using Laravel and React 💙
   
 ### :fire: My Stats :
 <table>
