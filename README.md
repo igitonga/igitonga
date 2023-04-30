@@ -4,6 +4,9 @@
 <table>
   <tr>
     <td>
+      <img src="https://github-readme-stats.vercel.app/api?         username=briankariuki&&count_private=true&show_icons=true&&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+    </td>
+    <td>
        <a href="https://github.com/igitonga><img alt="Gitonga's Github Stats" src="https://github-readme-stats.vercel.app/api?username=igitonga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
@@ -14,10 +17,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=briankariuki&&count_private=true&show_icons=true&&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 ---
 
