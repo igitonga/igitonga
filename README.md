@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" height="400"/>
-</div>
+### Aloha 👋
   
 ### :fire: My Stats :
 <table>
@@ -19,6 +17,9 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=briankariuki&&count_private=true&show_icons=true&&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
