@@ -1,5 +1,4 @@
 ### Aloha 👋
-I'm in the pathway of being a good software engineer if there is something like that.
   
 ### :fire: My Stats :
 <table>
