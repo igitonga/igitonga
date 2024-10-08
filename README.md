@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in the Fintech sector building both consumer and business solutions for the local market.<br>🌱 My goal is to work towards becoming a proper software engineer.<br>💬 Ask me about stars, especially the Orion constellation.<br>⚡ Fun fact: As other animals have 3 hearts like the Octopus some humans have none, remember that BAD ex.
+🔭 I’m currently working in the Fintech sector building both consumer and business solutions for the local market.<br>🌱 My goal is to work towards becoming a proper software engineer.<br>💬 Ask me about stars, especially the Orion constellation.<br>⚡ Fun fact: As other animals have 3 hearts like the Octopus some humans have none.
 
 
 ## 🌐 Socials:
